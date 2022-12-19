@@ -6,6 +6,7 @@
         "autor":" Rubem Braga;",
         "categoria_id": 1
       },
+      
       {
         "id": 2,
         "nome": "Não Tenho Palavras - Autografado",
@@ -22,6 +23,7 @@
         "autor": " Pauline Kael",
         "categoria_id": 1
       },
+      
       {
         "id": 4,
         "nome": "30 Desenhos de Poty",
@@ -30,6 +32,7 @@
         "autor": "Poty Lazzarotto",
         "categoria_id": 1
       },
+
       {
         "id": 5,
         "nome": "A Administração Conservadora ~ 1ª Edição",
@@ -39,6 +42,7 @@
         "categoria_id": 1
       }
     ],
+
     "livrosDeAutoAjuda": [ 
       {
         "id": 1,
@@ -47,6 +51,7 @@
         "preco": 50.00,
         "autor":" Charles Duhigg" 
       },
+
       {
         "id": 2,
         "nome": "A Sutil Arte de Ligar o F*da-se ",
@@ -60,6 +65,7 @@
         "preco": 45.00,
         "autor": " Timothy Ferris"        
       },
+
       {
         "id": 4,
         "nome": "Como Fazer Amigos e Influenciar Pessoas",
@@ -68,8 +74,10 @@
         "autor": "Dale Carnegie"
       }
     ],
+
     "livrosDeRomance": [ 
       {
+
         "id": 1,
         "nome": "Um Amor Para Recordar ",
         "descricao": "Um livro de Nicholas Sparks abre a nossa lista de Melhores Livros de Romance. São mais de 100 milhões de exemplares vendidos pelo autor. Em Um Amor Para Recordar conta a história do adolescente de Landon Carter que está no momento descrente do amor por ter sido abandonado pela antiga namorada. ",
@@ -77,6 +85,7 @@
         "autor":" Nicholas Sparks"  
       },
       {
+
         "id": 2,
         "nome": "Bridgerton: O Duque e Eu",
         "descricao": "A história de época gira em torno de Daphne Bridgerton e Simon Bassett (o irresistível duque de Hastings). Basset passara anos viajando para o mundo, era rico, bonito, solteiro (e todos os outros clichês que se pode esperar nesse tipo de romance). Porém, ele está irredutível na ideia de nunca casar-se. ",
@@ -84,6 +93,7 @@
         "autor":"Julia Quinn"
       },
       {
+
         "id": 3,
         "nome": "O Amor Nos Tempos do Cólera",
         "descricao": "O Amor Nos Tempos do Cólera aparece em terceiro lugar na nossa lista de Melhores Livros de Romance. Essa é a história real dos pais de Gabriel García Márquez (Colombiano e Nobel de literatura) e foi a inspiração do livro, que acompanha a paixão do telegrafista, violinista e poeta Gabriel Elígio Garciá por Luiza Márquez, Na história real, o pai da noiva era contra o noivado e a enviou para uma viagem pelo interior por um ano. Gabriel, então, monta uma rede de comunicação para conseguir alcançar Luiza onde fosse que ela estivesse.",
@@ -91,6 +101,7 @@
         "autor": "Gabriel Garcia Márquez"
       },
       {
+
         "id": 4,
         "nome": "A Culpa é das Estrelas",
         "descricao": "A história que virou filme de A Culpa é Das Estrelas está em quarto lugar na nossa lista de Melhores Livros de Romance. Nessa história encantadora, dois adolescentes (Hazel e Augustus) se encontram em uma casa de apoio para crianças com câncer.",
