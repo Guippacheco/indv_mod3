@@ -1,5 +1,5 @@
 {
-    "livros-raros": [{"id": 1,
+    "livrosRaros": [{"id": 1,
         "nome": "100 Cronônicas escolhidas-autografado",
         "descricao": "José Olympio, 1958, 1ª edição, com dedicatória do autor. Brochura. Livro em muito bom estado de conservação, apenas com uma pequena perda na parte superior da capa. 326 páginas.",
         "preco": 250.00,
@@ -39,7 +39,7 @@
         "categoria_id": 1
       }
     ],
-    "livros-de-auto-ajuda": [ 
+    "livrosDeAutoAjuda": [ 
       {
         "id": 1,
         "nome": "O Poder do Hábito ",
@@ -68,7 +68,7 @@
         "autor": "Dale Carnegie"
       }
     ],
-    "livros-de-romance": [ 
+    "livrosDeRomance": [ 
       {
         "id": 1,
         "nome": "Um Amor Para Recordar ",
